@@ -1,21 +1,19 @@
-# ListFilter
+Desafio 02 - Filtragens em Listas - Ignite Elixir
 
-**TODO: Add description**
+Projeto
+* Segundi desafio proposto pelo Ignite na trilha de Elixir da Rocketseat, para praticar e fixar o aprendizado de filtragens em listas.
 
-## Installation
+Tecnologias usadas:
 
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `list_filter` to your list of dependencies in `mix.exs`:
+* Elixir
+* Erlang
 
-```elixir
-def deps do
-  [
-    {:list_filter, "~> 0.1.0"}
-  ]
-end
-```
+Como Executar:
 
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at [https://hexdocs.pm/list_filter](https://hexdocs.pm/list_filter).
+* Após clonar o repositório, em um Terminal execute os seguintes comandos
+* iex -S mix
+* ListFilter.call(["1", "3", "6", "43", "banana", "6", "abc"])
 
+Importante:
+
+* Você deve possuir um ambiente apto a executar o Elixir.
